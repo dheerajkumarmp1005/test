@@ -1,2 +1,2 @@
 # test
-First GIT Repo
+First GIT Repo for testing
